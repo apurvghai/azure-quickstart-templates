@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "serviceName": {
-      "value": "logicappag11"
+      "value": "<Logic App Name>"
     },
     "storageAccountName": {
-      "value": "apurvghstg1"
+      "value": "<storage name>"
     }
   }
 }
